@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1536665777 source:d:\codeblocks\hmm\snake\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<time.h>
+
